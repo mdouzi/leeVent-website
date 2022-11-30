@@ -1,7 +1,7 @@
 <template>
-    <nav class="w-full p-4 px-20 header-nav">
-        <div class="container flex justify-between items-center">
-            <div class="block text-3xl ">
+    <nav class="w-full w- p-4 px-20 header-nav border-4 border-red-600">
+        <div class=" w-full flex justify-between items-center  border-2 border-blue-600">
+            <div class="block text-3xl border-2 border-orange-100">
                 LeeVnt
             </div>
             <div class="link">
