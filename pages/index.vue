@@ -1,5 +1,5 @@
 <template>
-    <Hero/>
+   <NavBar />
 </template>
 
 <script>
