@@ -1,6 +1,8 @@
 <template>
   <div>
     <Header/>
-    <Nuxt />
+    <Nuxt/>
   </div>
 </template>
+<script>
+</script>
