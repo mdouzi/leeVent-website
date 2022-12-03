@@ -1,0 +1,14 @@
+{
+  "DropDownMunu": {
+    "description": "Auto imported from components/DropDownMunu.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Hero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  }
+}

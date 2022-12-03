@@ -1,0 +1,16 @@
+[
+  {
+    "name": "med",
+    "path": "/med",
+    "component": "/workspaces/leeVent-website/pages/med.vue",
+    "chunkName": "pages/med",
+    "_name": "_75a0623e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/workspaces/leeVent-website/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_27b198b2"
+  }
+]
