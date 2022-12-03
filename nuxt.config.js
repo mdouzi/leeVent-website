@@ -13,6 +13,9 @@ export default {
     ]
   },
 
+  // add build Dir
+  buildDir: 'nuxtDir',
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '@/assets/css/main.css',
