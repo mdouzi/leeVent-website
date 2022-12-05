@@ -1,6 +1,6 @@
 <template>
-    <div class="hero w-full h-1/2 bg-cover flex justify-center items-center bg-fixed bg-gradient-to-b from-gray-900 purpel- to-gray-700 " >
-            <div class="content w-full h-full container mx-auto">
+    <div class="hero w-full h-1/2 bg-cover flex justify-center items-center bg-fixed bg-gradient-to-b from-gray-900 purpel- to-gray-700 bg-bgHero bg-cover bg-fixed " >
+            <div class="content w-full h-full container mx-auto ">
                 <h1 class="title">LeeVnT</h1>
                 <p class="description text-white">GeeksBlaBla is a community initiative, to discuss, highlight and share the latest IT topics in Moroccan Darija.</p>
             </div>
