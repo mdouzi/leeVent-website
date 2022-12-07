@@ -11,6 +11,9 @@ module.exports = {
       extend: {
         backgroundImage:{
           'bgHero':"url('~assets/back.png')"
+        },
+        dropShadow: {
+          'my': '0 35px 35px rgba(0, 0, 0, 0.25)',
         }
       },
     },
