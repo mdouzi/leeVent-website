@@ -2,15 +2,15 @@
   {
     "name": "med",
     "path": "/med",
-    "component": "/Users/haguezou/Desktop/1337/pages/med.vue",
+    "component": "/workspaces/leeVent-website/pages/med.vue",
     "chunkName": "pages/med",
-    "_name": "_89839a20"
+    "_name": "_75a0623e"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/haguezou/Desktop/1337/pages/index.vue",
+    "component": "/workspaces/leeVent-website/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_cfa66014"
+    "_name": "_27b198b2"
   }
 ]

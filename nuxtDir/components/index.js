@@ -1,6 +1,10 @@
+export { default as Card } from '../../components/Card.vue'
+export { default as DropDownMunu } from '../../components/DropDownMunu.vue'
 export { default as Header } from '../../components/Header.vue'
 export { default as Hero } from '../../components/Hero.vue'
+export { default as LoadingAnimation } from '../../components/LoadingAnimation.vue'
 export { default as NavBar } from '../../components/NavBar.vue'
+export { default as Segments } from '../../components/Segments.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
