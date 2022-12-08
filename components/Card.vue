@@ -7,7 +7,13 @@
                     class="w-full h-full object-cover z-10 transform group-hover:scale-105 duration-500 ease-in-out group-hover:rotate-2 blur-sm contrast-50 group-hover:filter-none">
                 <p
                     class="absolute text-3xl capitalize  font-extrabold font-mono text-white z-50 transform top-3/4 left-10">
-                    {{ card.title }}
+                    <span class="relative w-full inline-block before:block before:absolute before:-skew-y-6 before:bg-slate-800 p-1 before:transition-all before:ease-in-out before:duration-500 before:w-full  group-hover:before:-inset-0">
+                        <span class="relative">
+                            {{ card.title }}
+                        </span>
+                        
+                    </span>
+                    
                 </p>
             </figure>
         </div>
