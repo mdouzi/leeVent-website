@@ -1,7 +1,7 @@
 <template>
     <div class="hero w-full h-1/2  flex justify-center items-center bg-bgHero bg-cover relative">
             <div class="content w-full flex justify-between items-center h-full container mx-auto">
-               <div class="content w-full h-full flex  justify-center items-center gap-y-5">
+               <div class="content w-full lg:w-1/2 h-full flex  justify-center items-center gap-y-5">
                     <div class="font-mono">
                         <LoadingAnimation/>
                         <!-- <h1 class="title text-9xl fontf-inheret ">LeeVnT</h1>
@@ -11,7 +11,7 @@
                         </button> -->
                     </div>
                </div>
-               <div class="mediaborder w-full h-full border-green-600 hidden lg:flex justify-center items-center z-50">
+               <div class="mediaborder lg:w-1/2  w-full h-full border-green-600 hidden lg:flex justify-center items-center z-50">
                    <img src="~/assets/audio_conversation.svg" alt="" srcset="">
                </div>
             </div>
