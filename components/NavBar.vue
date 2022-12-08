@@ -2,7 +2,7 @@
     <div class="w-full px-5 text-white bg-gray-900 relative">
         <div class="container mx-auto flex justify-between items-center">
             <div class="rightNav flex justify-center items-center p-5">
-                <span class="title text-2xl font-semibold text-gray-200">
+                <span class="title text-5xl font-semibold text-gray-200">
                     LeeVenT
                 </span>
             </div>
