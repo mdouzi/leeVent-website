@@ -1,5 +1,12 @@
 [
   {
+    "name": "Blog",
+    "path": "/Blog",
+    "component": "/workspaces/leeVent-website/pages/Blog.vue",
+    "chunkName": "pages/Blog",
+    "_name": "_13ea0f06"
+  },
+  {
     "name": "med",
     "path": "/med",
     "component": "/workspaces/leeVent-website/pages/med.vue",

@@ -1,4 +1,7 @@
 {
+  "BlogProto": {
+    "description": "Auto imported from components/BlogProto.vue"
+  },
   "Card": {
     "description": "Auto imported from components/Card.vue"
   },
@@ -16,6 +19,9 @@
   },
   "NavBar": {
     "description": "Auto imported from components/NavBar.vue"
+  },
+  "OverImage": {
+    "description": "Auto imported from components/OverImage.vue"
   },
   "Segments": {
     "description": "Auto imported from components/Segments.vue"
